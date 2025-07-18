@@ -8,4 +8,3 @@ Repozytorium poświęcone projektom i materiałom z zakresu sztucznej inteligenc
 - NLP: tokenizacja, klasyfikacja tekstu, analiza sentymentu
 - Generatywne modele: tekst → obraz, tekst → tekst
 - Transfer learning, fine-tuning modeli
-- Praktyczne zastosowania AI (np. chatboty, klasyfikatory, systemy rekomendacyjne)
